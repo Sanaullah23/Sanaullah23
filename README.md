@@ -181,7 +181,7 @@
 
 <p align="center">
   <a href="https://github.com/Sanaullah23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdiT9SsKc&urlhash=NEbo&mt=06zqIkoR8za7VcoKCrn0a9vAikiJLILC2H93uM3x80bTmJc25z0uMdbxw1_RsAXqW2WBaeC_xZNYscKpOHPZo0TQaRooEDGKq5rrIkCvi-Vfety4hHx95wacKg&isSdui=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sanaullahb.019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
