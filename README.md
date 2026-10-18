@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sanaullah&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20MERN%20%2F%20.NET%20Core&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Sanaullah&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20MERN%20%2F%20.NET%20Core&descAlignY=62&descSize=18" alt="header" />
 </p>
 
 <p align="center">
@@ -10,14 +10,25 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanaullah23&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://hits.sh/github.com/Sanaullah23.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&labelColor=555555" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Sanaullah23?label=Followers&style=for-the-badge&logo=github&color=2ea44f" alt="followers" />
   <img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-01411C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Backend%20Developer-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work" />
+  <img src="https://img.shields.io/badge/Experience-15%2B%20Projects-0e75b6?style=for-the-badge&logo=rocket&logoColor=white" alt="projects" />
+</p>
+
+<p align="center">
+  <a href="https://lnkd.in/diT9SsKc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sanaullahb.019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://verifybootcamp.netlify.app/certificate/4550504237343"><img src="https://img.shields.io/badge/Certificate-Sukkur%20IBA-F59E0B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Certificate" /></a>
+</p>
+
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 <table align="center">
   <tr>
@@ -33,9 +44,38 @@
   </tr>
 </table>
 
+<h3 align="center">⚡ What I Do</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend</h3>
+      <p>Responsive, reusable UI with React, Next.js and Tailwind CSS</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 Backend</h3>
+      <p>REST APIs with Node.js, Express.js and ASP.NET Core</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🗄️ Databases</h3>
+      <p>Schema design with MongoDB, PostgreSQL, SQL Server, EF Core and Prisma</p>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🌱 Currently</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">🚀 <b>Building</b><br/>UmaizAutos stock & service system</td>
+    <td align="center">📚 <b>Learning</b><br/>.NET Core, EF Core, Rust, C++</td>
+    <td align="center">🎯 <b>Looking for</b><br/>Backend-focused developer roles</td>
+  </tr>
+</table>
+
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">🌐 Frontend</h3>
 <p align="center">
@@ -61,7 +101,7 @@
 
 ---
 
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
 <table align="center">
   <tr>
@@ -92,7 +132,7 @@
 
 ---
 
-## 📌 Featured Projects
+<h2 align="center">📌 Featured Projects</h2>
 
 <table align="center">
   <tr>
@@ -106,7 +146,7 @@
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
-      <sub>Client project</sub>
+      <sub>🏷️ Client project</sub>
     </td>
     <td width="50%" valign="top">
       <h3>👗 STEPPPA eCommerce</h3>
@@ -117,7 +157,7 @@
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </p>
-      <sub>International client (Malaysia)</sub>
+      <sub>🏷️ International client (Malaysia)</sub>
     </td>
   </tr>
   <tr>
@@ -127,7 +167,7 @@
       <p>
         <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
-      <sub>Personal project</sub>
+      <sub>🏷️ Personal project</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🕸️ DataScraper Extension</h3>
@@ -149,14 +189,14 @@
 
 ---
 
-## 🎓 Education & Certification
+<h2 align="center">🎓 Education & Certification</h2>
 
 <table align="center">
   <tr>
     <td>
 
 - 🎓 **BS Information Technology**: University of Sindh, Jamshoro (2020 – 2024)
-- 📜 **MERN Stack Bootcamp**: Sukkur IBA (Oct 2023 – Jan 2024)
+- 📜 **MERN Stack Bootcamp**: Sukkur IBA (Oct 2023 – Jan 2024) · [🔗 View Certificate](https://verifybootcamp.netlify.app/certificate/4550504237343)
 
     </td>
   </tr>
@@ -164,7 +204,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanaullah23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
@@ -175,18 +215,23 @@
   <img src="https://streak-stats.demolab.com?user=Sanaullah23&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanaullah23&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://github.com/Sanaullah23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdiT9SsKc&urlhash=NEbo&mt=06zqIkoR8za7VcoKCrn0a9vAikiJLILC2H93uM3x80bTmJc25z0uMdbxw1_RsAXqW2WBaeC_xZNYscKpOHPZo0TQaRooEDGKq5rrIkCvi-Vfety4hHx95wacKg&isSdui=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://lnkd.in/diT9SsKc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sanaullahb.019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <i>⭐ If you like my work, drop a star on my repos!</i>
+  <i>💡 Open to collaborate on interesting projects. Feel free to reach out!</i><br/>
+  <i>⭐ If you like my work, drop a star on my repos.</i>
 </p>
 
 <p align="center">
